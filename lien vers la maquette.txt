@@ -1,0 +1,3 @@
+mobile : https://www.figma.com/design/BflGA9IKZB6fDRXpHIbQu9/mobile?node-id=0-1&t=QG1MsbbXoyHBh6IC-1
+
+desktop : https://www.figma.com/design/KRhmBmheAsRmmpn5Aab0a8/desktop?node-id=0-1&t=LKTnXnswlMX8XNMk-1
